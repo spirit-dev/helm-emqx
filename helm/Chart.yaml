@@ -1,0 +1,17 @@
+apiVersion: v2
+name: emqx
+description: A Helm chart for EMQX
+icon: https://github.com/emqx.png
+home: https://www.emqx.com/en
+sources:
+  - https://github.com/emqx/emqx
+dependencies:
+  - name: emqx
+    repository: https://repos.emqx.io/charts
+    version: "5.8.6"
+
+type: application
+
+version: 5.8.6
+
+appVersion: 5.8.6
