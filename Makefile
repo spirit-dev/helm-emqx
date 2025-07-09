@@ -2,7 +2,7 @@
 
 # Service
 NAMESPACE = emqx-system
-RELEASE_NAME = emqx
+RELEASE_NAME = emqx-turingpi
 # ENV ?= ### Specify the env to use
 ENV = turingpi
 pod := $$(kubectl get pods -n ${NAMESPACE} |  grep -m1 ${RELEASE_NAME} | cut -d' ' -f1)

@@ -1,14 +1,18 @@
-# EMQX
+# emqx
 
+<!-- More info: https://github.com/Ileriayo/markdown-badges -->
+<!-- More info: https://shields.io/badges -->
+<!-- More info: https://badgesgenerator.com/ -->
+
+[![GitLab Sync](https://img.shields.io/badge/gitlab_sync-emqx-blue?style=for-the-badge&logo=gitlab)](https://gitlab-internal.spirit-dev.net/github-mirror/helm-emqx) <!-- markdownlint-disable MD041 -->
+[![GitHub Mirror](https://img.shields.io/badge/github_mirror-emqx-blue?style=for-the-badge&logo=github)](https://github.com/spirit-dev/helm-emqx)
 [![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=emqx-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/emqx-turingpi)
 
-## Table of content
+<!--TOC-->
 
-[[_TOC_]]
+- [Installation process](#installation-process)
 
-## Resources
-
-- [EMQX documentation](https://docs.emqx.com/en/emqx/latest/)
+<!--TOC-->
 
 ## Installation process
 
