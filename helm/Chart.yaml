@@ -8,7 +8,7 @@ sources:
 dependencies:
   - name: emqx
     repository: https://repos.emqx.io/charts
-    version: "5.8.6"
+    version: "5.8.8"
 
 type: application
 
@@ -16,4 +16,4 @@ type: application
 version: 5.8.6
 
 # renovate: datasource=github-releases depName=emqx/emqx
-appVersion: 5.8.6
+appVersion: 5.8.8
