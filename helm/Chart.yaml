@@ -16,4 +16,4 @@ type: application
 version: 5.8.6
 
 # renovate: datasource=github-releases depName=emqx/emqx
-appVersion: 6.2.0
+appVersion: 6.2.1
